@@ -1,0 +1,5 @@
+El patron de diseño FACTORY
+nos permite centralizar en una sola funcion
+la creacion de estructuras especificas de un mismo tipo.
+Con esto el cliente no tiene conocer todo la caucistica que 
+tenemos que generar para entregar un elemento de un tipo especifico como tal.
